@@ -59,7 +59,3 @@ You can then open the app in:
 ## Community
 
 - [CampusLoop on GitHub](https://github.com/The-Billion-Dollar-Company/Campusloop.git): View our open source platform and contribute.
-
-
-
-webhook test
